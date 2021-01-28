@@ -1,0 +1,7 @@
+{
+  "name": "wyno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
